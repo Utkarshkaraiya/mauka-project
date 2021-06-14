@@ -1,0 +1,105 @@
+
+.recc1{
+    display: flex;
+    margin-top: -100px;
+    margin-left: 70px;
+    
+    
+}
+.img{
+    width: 26.188rem;
+    height: 35.625rem;
+    margin: 18.25rem 21.063rem 0.34rem 7.438rem;
+    position: relative;
+  z-index: 1;
+  margin-left: -50px;
+  margin-top: 240px;
+  
+  
+}
+.imgg1{
+    width: 21.875rem;
+    height: 21.25rem;
+    padding: 4.029rem 4.081rem 4.063rem 4.125rem;
+    border: solid 3px #00dbd0;
+    margin-left: -500px;
+    margin-top: 250px;
+    background-color: white;
+    position: relative;
+    
+    
+}
+.healthy{ 
+    
+        width: 16rem;
+        height: 3rem;
+        margin: 9.933rem 19.25rem 6.5rem 0;
+        font-family: LibreBaskerville;
+        font-size: 2.25rem;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: normal;
+        text-align: left;
+        color: #374b5c;
+        margin-bottom:-200px ;
+      }
+
+.natural{ 
+    width: 25.25rem;
+    height: 4.625rem;
+    margin: 12.621rem 10rem 2.188rem 0;
+    font-family: LibreBaskerville;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.32;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  
+
+}
+.button{
+    
+    
+  width: 6.75rem;
+  height: 1.5rem;
+  font-family: LibreBaskerville;
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin: 2.188rem 21.5rem 7.188rem 0;
+  border-radius: 10px;
+  
+  width: 13.75rem;
+  height: 3.375rem;
+  margin: 2.188rem 21.5rem 7.188rem 0;
+  padding: 0.875rem 4rem 1rem 3rem;
+  border-radius: 10px;
+  background-color: #00dbd0;
+}
+.paraa{
+  width: 24.313rem;
+  height: 3.375rem;
+  margin: 2.188rem 10.938rem 2.188rem 0;
+  font-family: LibreBaskerville;
+  font-size: 1.25rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+  
+
+  
+}

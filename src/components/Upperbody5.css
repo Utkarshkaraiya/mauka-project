@@ -1,0 +1,63 @@
+.imgwomen{
+    width: 6.099rem;
+  height: 6.099rem;
+  margin: 1.873rem 8.963rem 1.156rem 8.938rem;
+  border-radius: 50%;
+    overflow: hidden;
+   
+margin-bottom: -8px;
+    display:inline-block;
+    vertical-align:middle;
+}
+.star{ margin-top: -10px;
+    width: 1.233rem;
+    height: 1.243rem;
+    color:aquamarine;
+    margin-left: -100px;
+    margin-bottom: -20px;
+    display: flex;
+    
+}
+.star i{
+    font-size: 20px;
+    padding: 2px;
+}
+.box4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.name{
+    width: 6.563rem;
+    height: 2.188rem;
+    margin: 1.156rem 8.625rem 0.997rem 8.813rem;
+    font-family: LibreBaskerville;
+    font-size: 1.625rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+}
+.img6{
+    margin-left: -2000px;
+    margin-bottom: -1050px;
+    transform: rotate(235deg);
+  
+}
+.para{
+    width: 33.875rem;
+    height: 6.313rem;
+    margin: 1.253rem 2.019rem 1.372rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+}

@@ -1,0 +1,156 @@
+
+.imagee1{
+    width: 3.251rem;
+    height: 3.042rem;
+   
+    color: #ffffff;
+    
+ 
+  margin-top: 20px;
+  margin-left: 70px;
+   
+}
+.imageor{
+    display: flex;
+    margin-top: 80px;
+}
+.footermain{
+   
+    
+   
+    width: 100%;
+  height: 21.688rem;
+  margin: 5.063rem 0 0;
+  padding: 0.011rem 0 0;
+  border: solid 1px #707070;
+  background-color: #ffffff;
+  background-image: url("Group 229.png");
+  
+}
+.copy1{
+    width: 10.438rem;
+    height: 1.188rem;
+    margin: 0.668rem 9.5rem 3.176rem 4.468rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color:  #ffffff;
+}
+.lorem2{
+    width: 19.938rem;
+    height: 2.75rem;
+    margin: 1.968rem 0 2.02rem 4.468rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.79;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.organic1{ 
+    margin-left: 25px;
+    width: 6.812rem;
+  height: 2.563rem;
+  font-family: LibreBaskerville;
+  font-size: 1.938rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.32;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.inform{
+    margin-top: -230px;
+   
+  font-family: LibreBaskerville;
+  font-size: 1rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  width: 62px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid aqua;
+ margin-left: 500px;
+    color: #ffffff;
+}
+.points{
+  
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 500px;
+    
+    
+    color: #ffffff;
+}
+.points p{
+    padding: -2px;
+    margin-bottom: 2px;
+}
+.points h5{
+    color: aqua;
+    margin-left: 160px;
+    margin-top: -90px;
+    padding: 0%;
+    
+  
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+   
+}
+.follow{
+    margin-top: -105px;
+   
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    width: 72px;
+    padding-bottom: 0px;
+    border-bottom: 2px solid aqua;
+   margin-left: 900px;
+      color: #ffffff;
+}
+.socialIcons i { 
+display: flexbox;
+    padding: 4px;
+    margin: 10px;
+    background-color: white;
+    margin-top: 18px;
+    color: #374b5c;
+    border-radius: 50%;
+    overflow: hidden;
+   
+margin-bottom: -8px;
+    display:inline-block;
+    vertical-align:middle;
+    
+}
+.socialIcons{
+    margin-left: 180px;
+}

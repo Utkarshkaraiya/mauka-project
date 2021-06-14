@@ -1,0 +1,74 @@
+.boxbig{
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 600px;
+  margin-bottom: 150px;
+}
+.boxx4{
+  display: flex;
+  
+}
+.boxx1 h1{
+    width: 27.938rem;
+  height: 3rem;
+  margin: 12.938rem 4.707rem 1.188rem 5.269rem;
+  font-family: LibreBaskerville;
+  font-size: 2.25rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+.boxx1 p{
+    width: 35.5rem;
+    height: 2.625rem;
+    margin: 1.188rem 1.207rem 4.125rem;
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+}
+
+.boxx4 p{
+    width: 12.25rem;
+    height: 1.5rem;
+    margin: 1.313rem 9.344rem 1.5rem 0;
+    font-family: LibreBaskerville;
+    font-size: 1.125rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+    margin-left: 50px;
+}
+.boxx4 button{
+  width: 10.438rem;
+  height: 4.313rem;
+  margin: 0 0 0 9.344rem;
+  padding: 1.313rem 2.844rem 1.5rem;
+  border-radius: 30px;
+  background-color: #00dbd0;
+text-align: center;
+  font-family: LibreBaskerville;
+  font-size: 1.125rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  margin-left: -10px;
+
+
+  text-align: center;
+  color: #ffffff;
+  
+}

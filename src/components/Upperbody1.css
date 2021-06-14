@@ -1,0 +1,42 @@
+.img1{
+    width: 3.565rem;
+    height: 2.935rem;
+    margin-left: 0px;
+}
+.recc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.welcome{
+    margin: left 10px; ;
+    width: 19.313rem;
+    height: 3rem;
+    margin: 0.904rem 3.875rem 1.188rem 0.813rem;
+    font-family: LibreBaskerville;
+    font-size: 2.25rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+    margin-left: 100px;
+
+}
+.lorem{
+    width: 35.5rem;
+    height: 2.625rem;
+    margin: 1.188rem 1.207rem 5.13rem;
+    font-family: LibreBaskerville;
+    font-size: 1.1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  margin-top: -10px;
+}
