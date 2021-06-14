@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mauka-project/static/css/main.f617e3ea.chunk.css",
+    "main.js": "/mauka-project/static/js/main.b0939828.chunk.js",
+    "main.js.map": "/mauka-project/static/js/main.b0939828.chunk.js.map",
+    "runtime-main.js": "/mauka-project/static/js/runtime-main.511a3797.js",
+    "runtime-main.js.map": "/mauka-project/static/js/runtime-main.511a3797.js.map",
+    "static/js/2.3e2ff3a3.chunk.js": "/mauka-project/static/js/2.3e2ff3a3.chunk.js",
+    "static/js/2.3e2ff3a3.chunk.js.map": "/mauka-project/static/js/2.3e2ff3a3.chunk.js.map",
+    "index.html": "/mauka-project/index.html",
+    "static/css/main.f617e3ea.chunk.css.map": "/mauka-project/static/css/main.f617e3ea.chunk.css.map",
+    "static/js/2.3e2ff3a3.chunk.js.LICENSE.txt": "/mauka-project/static/js/2.3e2ff3a3.chunk.js.LICENSE.txt",
+    "static/media/11.e8bc3dc5.png": "/mauka-project/static/media/11.e8bc3dc5.png",
+    "static/media/12.426912a6.png": "/mauka-project/static/media/12.426912a6.png",
+    "static/media/13.8817904d.png": "/mauka-project/static/media/13.8817904d.png",
+    "static/media/Group 134.efbd04e6.png": "/mauka-project/static/media/Group 134.efbd04e6.png",
+    "static/media/Footer.css": "/mauka-project/static/media/Group 229.3fc7b986.png",
+    "static/media/Group195.71ea1be1.png": "/mauka-project/static/media/Group195.71ea1be1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.511a3797.js",
+    "static/js/2.3e2ff3a3.chunk.js",
+    "static/css/main.f617e3ea.chunk.css",
+    "static/js/main.b0939828.chunk.js"
+  ]
+}
